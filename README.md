@@ -10,16 +10,6 @@ Lost & Found Management System is a full-stack web application designed to strea
 
 This project demonstrates a complete implementation of a community service platform with user authentication, item management, claim processing, and administrative oversight capabilities.
 
----
-
-## 🌐 Live URL
-
-[Lost & Found Frontend](https://lost-and-found-rust.vercel.app)
-
-[Lost & Found Backend](https://lost-and-found-backend-lf.vercel.app)
-
----
-
 ## 🚀 Features
 
 - ✅ User authentication (register/login) with JWT-based security
