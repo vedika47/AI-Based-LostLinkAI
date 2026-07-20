@@ -1,4 +1,4 @@
-# 📌 Lost & Found Management System
+# 📌 AI Based Lost & Found Management System
 
 A modern, comprehensive lost and found management platform built with React, TypeScript, and Node.js. The system enables users to report lost items, register found items, make claims, and efficiently reunite people with their belongings.
 
